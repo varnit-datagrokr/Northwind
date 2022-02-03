@@ -1,0 +1,6 @@
+env
+Northwind_database_csv
+csv
+database
+__pycache__
+.coverage
